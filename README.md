@@ -27,7 +27,7 @@ Archives, no longer maintained:
 
 - [beyond-the-token-bottleneck](https://github.com/CompleteTech-LLC-AI-Research/beyond-the-token-bottleneck): Obsidian research wiki on latent-space reasoning and inter-agent communication beyond the discrete token bottleneck
 - [buffons-match-lab](https://github.com/CompleteDotTech/buffons-match-lab): Interactive Buffon's needle laboratory with Monte Carlo experiments, Rapier rigid-body physics, and reproducible exports
-- [build-ai-workflows-in-5-steps](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps): Provider-agnostic Jupyter lesson on context priming, task decomposition and workflow crystallization, from goal image to code.
+- [build-ai-workflows-in-5-steps](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps): Provider-agnostic Jupyter lesson on context priming, task decomposition and workflow crystallization, from goal image to code
 - [jev-context-fabric](https://github.com/CompleteTech-LLC-AI-Research/jev-context-fabric): Local-first, source-backed memory layer for coding agents with an installer for eight harnesses and reversible /prune
-- [sts2-harness](https://github.com/AI-Ascension/sts2-harness): Experiment coordinator for AI runs: episodes, a pluggable model-provider interface, replay of recorded records, and artifact lineage.
+- [sts2-harness](https://github.com/AI-Ascension/sts2-harness): Experiment coordinator for AI runs: episodes, a pluggable model-provider interface, replay of recorded records, and artifact lineage
 - [paper-package](https://github.com/CompleteDotTech/paper-package): Jev research manuscript, evidence, and reproducible paper package
